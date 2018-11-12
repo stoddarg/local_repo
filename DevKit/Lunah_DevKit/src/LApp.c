@@ -14,6 +14,12 @@
 //////////////////////////// MAIN //////////////////// MAIN //////////////
 int main()
 {
+	//here is a random comment on line 17
+	while(1)
+	{
+		break;
+	}
+	
 	// Local Variables for main()
 	int i = 0;				// index
 	int	menusel = 99999;	// Menu Select
